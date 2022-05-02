@@ -1,4 +1,6 @@
-
+.heading {
+  width: 400px;
+}
 .colors {
   border: 1px black solid;
   width: 80%;
@@ -55,7 +57,7 @@ h3 {
 
 .dirtbox {
   background-color: #379683;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .mudbox {
